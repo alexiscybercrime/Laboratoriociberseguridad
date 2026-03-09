@@ -27,5 +27,17 @@ Bienvenido a mi entorno de documentación técnica. Aquí registro la configurac
 * **Análisis de Amenazas:** Identificación de vectores de ataque basados en comportamiento humano e IA.
 * **Objetivo:** Prevenir delitos cibernéticos mediante el análisis predictivo del atacante.
 
+### 🚀 Proyectos Actuales
+* **Network Testing:** Pruebas de conectividad y latencia entre nodos de Kali Linux y Ubuntu 
+* **Documentación Técnica:** Creación de una Wiki bilingüe especializada en terminología de seguridad 
+* **Hardening de Estación:** Optimización de seguridad en mi ThinkPad L14 Gen 4 
+
+### 🎯 Próximos Objetivos
+* Finalizar la ruta de **5 insignias de Cisco** (Junior Cybersecurity Analyst) 
+* Obtener la certificación **Google Cybersecurity Professional** 
+* Iniciar el desarrollo de una base de datos de patrones conductuales para detección de amenazas 
+
+---
+*Alexis Carrera | Analista de Amenazas Cibernéticas con especialidad en Perfilación Conductual* 
 ---
 *Documentación técnica generada en mi estación de trabajo ThinkPad L14.*
