@@ -16,3 +16,16 @@ Bienvenido a mi entorno de documentación técnica. Aquí registro la configurac
 ### 🎓 Certificaciones en Curso
 * **Cisco Networking Academy:** Ruta de 5 insignias (Junior Cybersecurity Analyst)
 * **Google:** Google Cybersecurity Professional Certificate (En proceso)
+
+### 🛠️ Herramientas y Frameworks
+* **Análisis de Redes:** Wireshark, Nmap (Escaneo de puertos y detección de servicios).
+* **Inteligencia (OSINT):** VirusTotal, TinEye, Google Dorking (Investigación de activos digitales).
+* **Gestión de Datos:** Microsoft Excel Avanzado / Power BI (Análisis de patrones de amenazas).
+
+### 🕵️ Especialidad en Perfilación Conductual
+* **Detección de Engaño:** Análisis de microexpresiones y patrones en comunicación escrita.
+* **Análisis de Amenazas:** Identificación de vectores de ataque basados en comportamiento humano e IA.
+* **Objetivo:** Prevenir delitos cibernéticos mediante el análisis predictivo del atacante.
+
+---
+*Documentación técnica generada en mi estación de trabajo ThinkPad L14.*
