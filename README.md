@@ -1,7 +1,7 @@
 # 🛠️ Mi Laboratorio de Ciberseguridad
 
- <img width="1159" height="67" alt="image" src="https://github.com/user-attachments/assets/5af67327-6624-4021-a664-e60cfd8c80c6" />/>
-
+ 
+![Estación de Trabajo](./fd6ddd36-50e9-4cd6-895d-7ab8fa69d394.jpg)
 
 Bienvenido a mi entorno de documentación técnica. Aquí registro la configuración de mi estación de trabajo y mis prácticas de seguridad.
 
